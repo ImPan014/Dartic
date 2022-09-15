@@ -193,6 +193,7 @@ body {
     width: 100%;
 
     text-align: center;
+    margin-bottom: 20px;
 }
 .producto-contenedor .product-title span{
     font-weight: bold;
